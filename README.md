@@ -7,10 +7,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning **Angular & Django**
+- 🌱 I’m currently learning **RxJs, Angular & Django**
 - 💬 Ask me about any thing related to Python
-- 📫 How to reach me: **Email: ayoubmnafeg@gmail.com**
-
+- 📫 How to reach me:
+        **Email: ayoubmnafeg@gmail.com**
+        **Phone: +216 53 617 228**
 
 <p align="center"><img alt="Ayoub MNEFEG" src="https://github-profile-trophy.vercel.app/?username=ayoubmnafeg&theme=gruvbox&row=1"></p>
 
