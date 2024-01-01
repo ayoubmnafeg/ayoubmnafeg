@@ -6,9 +6,10 @@
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 I’m currently learning **flutter & Django Rest Framework**
 -->
-- 🌱 I’m currently learning **RxJs, Angular & Django**
-- 💬 Ask me about any thing related to Python
+
+- 💬 Ask me about anything related to Python
 - 📫 How to reach me:
         **Email: ayoubmnafeg@gmail.com**
         **Phone: +216 53 617 228**
