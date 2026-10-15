@@ -15,14 +15,17 @@
 
 ---
 
-**Focus** — APIs & data models · Laravel / Node backends · TypeScript full-stack · automation & integrations · Docker / practical DevOps
+**Focus** — APIs & data models · Laravel / Python backends · TypeScript full-stack · automation & integrations · Docker / practical DevOps
 
 | | |
 | --- | --- |
-| **Backend** | Laravel · PHP · Node.js · Express · Python · Django |
-| **Frontend** | TypeScript · React · Next.js · Vue · Nuxt · Tailwind |
-| **Data** | PostgreSQL · MySQL · Redis · Elasticsearch |
-| **Ops** | Docker · Kubernetes · Linux · Firebase · CI/CD |
+| **Backend** | Laravel · Python |
+| **Frontend** | React · Next.js · Vue · Nuxt · Tailwind |
+| **Ops** | Docker · Kubernetes · Linux · CI/CD |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,python,react,nextjs,vue,nuxtjs,tailwind,docker,kubernetes,linux" alt="Tech stack" />
+</p>
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=ayoubmnafeg&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" />
