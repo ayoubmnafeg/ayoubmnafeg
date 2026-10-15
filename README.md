@@ -21,10 +21,11 @@
 | --- | --- |
 | **Backend** | Laravel · Python |
 | **Frontend** | React · Next.js · Vue · Nuxt · Tailwind |
+| **Data** | PostgreSQL · MySQL · Redis · Elasticsearch |
 | **Ops** | Docker · Kubernetes · Linux · CI/CD |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,python,react,nextjs,vue,nuxtjs,tailwind,docker,kubernetes,linux" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=laravel,python,react,nextjs,vue,nuxtjs,tailwind,postgres,mysql,redis,docker,kubernetes,linux" alt="Tech stack" />
 </p>
 
 <p align="center">
@@ -33,5 +34,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayoubmnafeg&bg_color=ffffff&color=57606a&line=0969da&point=0969da&area=true&hide_border=true&area_color=0969da" alt="Contribution activity" width="100%" />
+  <img src="https://activity-graph.vercel.app/graph?username=ayoubmnafeg&bg_color=ffffff&color=57606a&line=0969da&point=0969da&area=true&hide_border=true&area_color=0969da" alt="Contribution activity" width="100%" />
 </p>
