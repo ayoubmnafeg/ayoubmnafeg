@@ -15,6 +15,10 @@
 
 ---
 
+بِسْمِ ٱللَّهِ
+
+I care about clean systems, clear communication, and shipping work that actually helps the people using it. If that sounds like how you build — let's work together.
+
 | | |
 | --- | --- |
 | **Backend** | Laravel · Python |
