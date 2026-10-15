@@ -34,5 +34,5 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.vercel.app/graph?username=ayoubmnafeg&bg_color=ffffff&color=57606a&line=0969da&point=0969da&area=true&hide_border=true&area_color=0969da&days=90" alt="Contribution activity" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=ayoubmnafeg&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
