@@ -15,8 +15,6 @@
 
 ---
 
-**Focus** — APIs & data models · Laravel / Python backends · TypeScript full-stack · automation & integrations · Docker / practical DevOps
-
 | | |
 | --- | --- |
 | **Backend** | Laravel · Python |
