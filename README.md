@@ -21,13 +21,13 @@ I care about clean systems, clear communication, and shipping work that actually
 
 | | |
 | --- | --- |
-| **Backend** | Laravel · Python |
-| **Frontend** | React · Next.js · Vue · Nuxt · Tailwind |
+| **Backend** | Laravel · Python · Java |
+| **Frontend** | React · Next.js · Vue · Angular · Tailwind |
 | **Data** | PostgreSQL · MySQL · Redis · Elasticsearch |
 | **Ops** | Docker · Kubernetes · Linux · CI/CD |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,python,react,nextjs,vue,nuxtjs,tailwind,postgres,mysql,redis,docker,kubernetes,linux" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=laravel,python,java,react,nextjs,vue,angular,tailwind,postgres,mysql,redis,docker,kubernetes,linux" alt="Tech stack" />
 </p>
 
 <p align="center">
