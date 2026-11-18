@@ -23,7 +23,7 @@ I care about clean systems, clear communication, and shipping work that actually
 | --- | --- |
 | **Backend** | Laravel · Python · Java |
 | **Frontend** | React · Next.js · Vue · Angular · Tailwind |
-| **Data** | PostgreSQL · MySQL · Redis · Elasticsearch |
+| **Data** | PostgreSQL · MySQL · Redis · Meilisearch |
 | **Ops** | Docker · Kubernetes · Linux · CI/CD |
 
 <p align="center">
